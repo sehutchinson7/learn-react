@@ -9,7 +9,7 @@
 // }
 "use strict";
 
-const e = React.createElement;
+//const e = React.createElement;
 
 // class GreetMessage extends React.Component {
 //   constructor(props) {
